@@ -8,7 +8,7 @@ public class Main {
         //obj1.getRadius();
       //  Circle obj2 = new Circle();
        // ((Circle) obj2).getRadius();
-
+        // test1
 
         System.out.println(obj1.getRadius());
     }
